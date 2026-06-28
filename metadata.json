@@ -1,0 +1,8 @@
+{
+  "name": "Profissional CV Builder",
+  "description": "A high-end professional resume generator with AI-powered image editing and content refinement. Export your resume to professional PDF and editable Word formats.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
